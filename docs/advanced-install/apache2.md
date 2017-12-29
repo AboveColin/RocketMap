@@ -14,7 +14,7 @@ Assuming the following:
    ```
 3. Create a file /etc/apache2/sites-available/rocketmap.conf
    ```
-   sudo nano /etc/apache2/sites-available/rocketmap.conf`
+   sudo nano /etc/apache2/sites-available/rocketmap.conf
    ```
    copy pasta:
    ```
